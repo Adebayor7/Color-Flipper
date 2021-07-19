@@ -1,4 +1,4 @@
 # Side Hustle Internship 
 
 Hosted Link
-## [Live Preview](https://github.com/Adebayor7/Color-Flipper)
+## [Live Preview](https://adebayor7.github.io/Color-Flipper/)
