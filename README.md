@@ -2,4 +2,4 @@
 
 Hosted Link
 
-## [Live Preview]()
+## [Live Preview](https://adebayor7.github.io/Color-Flipper/)
